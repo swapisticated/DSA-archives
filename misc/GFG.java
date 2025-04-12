@@ -1,4 +1,4 @@
-package devrevPrep;
+package misc;
 
 // Java program to find K'th character in
 // decrypted string

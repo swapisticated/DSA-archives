@@ -1,4 +1,4 @@
-package devrevPrep;
+package misc;
 
 public class binaryAddition {
 

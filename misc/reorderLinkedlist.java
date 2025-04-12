@@ -1,4 +1,4 @@
-package devrevPrep;
+package misc;
 
 public class reorderLinkedlist {
     // Java program to find K'th character in
